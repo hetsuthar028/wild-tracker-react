@@ -1,0 +1,6 @@
+Creating default react app
+Add depencies
+    npm install google-map-react @iconify/react @iconify/icons-mdi
+    1. google-map-react
+    2. iconify/react
+    3. iconify/icons-mdi
