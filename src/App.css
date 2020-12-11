@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.buttons {
+  position: fixed;
+  right: 30px;
+  margin-bottom: 20px;
+  border: 0px;
+  border-radius: 7px;
+  z-index: 1;
+  padding: 10px;
+}
+
+.fire {
+  top: 100px;
+}
+.ice {
+  top: 155px;
+}
+.volcano {
+  top: 210px;
+}
+ /* 100 30 155 30  */
+
+ .icons {
+   width: 20px;
+   height: 20px;
+ }
